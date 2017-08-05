@@ -1,0 +1,4 @@
+{
+  "t/test_user.py::test_fb": true,
+  "t/test_user.py::test_init": true
+}
